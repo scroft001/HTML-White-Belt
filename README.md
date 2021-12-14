@@ -17,3 +17,4 @@ Most students can skip the skills and just build the project.
     1) Nesting the body tag inside the head tag
     2) Spelling of image files is incorrect or missing .png or .jpg
     3) Choosing a topic is hard
+    4) Image is too large, to fix: <img src="img.jpg" width="300px"> do not add CSS just yet
